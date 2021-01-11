@@ -36,7 +36,7 @@ sudo nvram SystemAudioVolume=" "
 defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 2
 
 # Hide Desktop icons
-defaults write http://com.apple.finder CreateDesktop -bool false
+defaults write com.apple.finder CreateDesktop false
 
 # Always show scrollbars
 # defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
