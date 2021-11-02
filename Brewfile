@@ -72,6 +72,8 @@ cask 'tuple'
 cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'zoomus'
+cask 'microsoft-teams'
+cask 'monitorcontrol'
 
 # Quicklook
 cask 'qlcolorcode'
