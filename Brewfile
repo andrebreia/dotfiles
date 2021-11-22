@@ -71,7 +71,7 @@ cask 'tinkerwell'
 cask 'tuple'
 cask 'visual-studio-code'
 cask 'whatsapp'
-cask 'zoomus'
+cask 'zoom'
 cask 'microsoft-teams'
 cask 'monitorcontrol'
 
