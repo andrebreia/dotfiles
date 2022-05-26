@@ -1,6 +1,6 @@
 # André's Dotfiles
 
-*Based on Dries Vints Dotfiles*
+*Based on [Dries Vints Dotfiles](https://github.com/driesvints/dotfiles)*
 
 ## A Fresh macOS Setup
 
