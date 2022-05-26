@@ -30,10 +30,3 @@ alias watch="npm run watch"
 # Git
 alias wip="git add -A && git commit -m 'wip'"
 alias nah="git reset --hard && git clean -df"
-alias ec="git commit --amend --no-edit && git push -f"
-
-# Node
-alias node14='export PATH="/opt/homebrew/Cellar/node@14/14.19.1/bin:$PATH"'
-
-alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
-
