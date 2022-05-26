@@ -43,6 +43,9 @@ brew 'yarn'
 brew 'zsh-autosuggestions'
 brew 'zsh-syntax-highlighting'
 
+# Zsh Themes
+brew 'spaceship'
+
 # Apps
 cask '1password'
 cask '1password-cli'
