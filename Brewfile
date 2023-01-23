@@ -28,7 +28,7 @@ brew 'gifsicle'
 
 # Development
 brew 'php'
-brew 'php@7.4'
+brew 'php@8.2'
 brew 'composer'
 brew 'imagemagick'
 brew 'libmemcached'
@@ -45,6 +45,7 @@ brew 'zsh-syntax-highlighting'
 
 # Zsh Themes
 brew 'spaceship'
+
 
 # Apps
 cask '1password'
@@ -78,6 +79,7 @@ cask 'whatsapp'
 cask 'zoom'
 cask 'microsoft-teams'
 cask 'monitorcontrol'
+cask 'cyberduck'
 
 # Quicklook
 cask 'qlcolorcode'
