@@ -80,6 +80,8 @@ cask 'zoom'
 cask 'microsoft-teams'
 cask 'monitorcontrol'
 cask 'cyberduck'
+cask 'hyperkey'
+cask 'quitter'
 
 # Quicklook
 cask 'qlcolorcode'
