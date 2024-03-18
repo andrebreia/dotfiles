@@ -27,14 +27,7 @@ brew 'svgo'
 brew 'gifsicle'
 
 # Development
-brew 'php'
-brew 'php@8.2'
-brew 'composer'
 brew 'imagemagick'
-brew 'libmemcached'
-brew 'memcached'
-brew 'mysql'
-brew 'nginx'
 brew 'node'
 brew 'redis'
 brew 'yarn'
@@ -51,42 +44,40 @@ brew 'spaceship'
 cask '1password'
 cask '1password-cli'
 cask 'aerial'
-cask 'raycast'
+cask 'arc'
 cask 'cleanmymac'
+cask 'cyberduck'
 cask 'dbngin'
 cask 'discord'
-cask 'expressvpn'
 cask 'figma'
 cask 'firefox'
 cask 'flux'
 cask 'github'
-cask 'arc'
-cask 'imageoptim'
+cask 'helo'
+cask 'herd'
+cask 'hyperkey'
 cask 'insomnia'
 cask 'iterm2'
+cask 'monitorcontrol'
+cask 'nordvpn'
 cask 'notion'
 cask 'obsidian'
+cask 'quitter'
+cask 'raycast'
+cask 'readdle-spark'
 cask 'slack'
 cask 'spotify'
 cask 'tableplus'
-cask 'telegram-desktop'
 cask 'the-unarchiver'
 cask 'tinkerwell'
 cask 'tuple'
 cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'zoom'
-cask 'microsoft-teams'
-cask 'monitorcontrol'
-cask 'cyberduck'
-cask 'hyperkey'
-cask 'quitter'
 
 # Quicklook
-cask 'qlcolorcode'
 cask 'qlmarkdown'
 cask 'quicklook-json'
-cask 'quicklook-csv'
 
 # Fonts
 cask 'font-lato'
@@ -99,10 +90,7 @@ cask 'font-source-serif-pro'
 cask 'font-jetbrains-mono'
 
 # Mac App Store
-mas 'Giphy Capture', id: 668208984
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
-mas 'Spark', id: 1176895641
-mas 'Speedtest', id: 1153157709
 mas 'Pages', id: 409201541
 mas 'TickTick: Things & Tasks To Do', id: 966085870
