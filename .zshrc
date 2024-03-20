@@ -80,7 +80,7 @@ ZSH_CUSTOM=$DOTFILES
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  git zsh-syntax-highlighting zsh-autosuggestions
+  git zsh-syntax-highlighting zsh-autosuggestions git-trim
 )
 
 source $ZSH/oh-my-zsh.sh
