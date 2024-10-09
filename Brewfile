@@ -29,7 +29,6 @@ brew 'gifsicle'
 # Development
 brew 'imagemagick'
 brew 'node'
-brew 'redis'
 brew 'yarn'
 
 # Zsh Plugins
@@ -93,4 +92,3 @@ cask 'font-jetbrains-mono'
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'Pages', id: 409201541
-mas 'TickTick: Things & Tasks To Do', id: 966085870
