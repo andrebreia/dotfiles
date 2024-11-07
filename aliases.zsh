@@ -13,7 +13,6 @@ alias sites="cd $HOME/Sites"
 alias art='herd php artisan'
 alias fresh="herd php artisan migrate:fresh --seed"
 alias seed="herd php artisan db:seed"
-alias va="valet php artisan"
 alias sart="./vendor/bin/sail artisan"
 alias phpstan="./vendor/bin/phpstan analyse"
 alias php="herd php"
@@ -25,7 +24,6 @@ alias pls="herd php please"
 alias pu='phpunit'
 alias pf='phpunit --filter '
 alias composer="herd php -d memory_limit=-1 /usr/local/bin/composer"
-alias vc="valet php -d memory_limit=-1 /usr/local/bin/composer"
 
 # JS
 alias nfresh="rm -rf node_modules/ package-lock.json && npm install"
