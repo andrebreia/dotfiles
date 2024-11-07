@@ -16,6 +16,7 @@ alias seed="herd php artisan db:seed"
 alias va="valet php artisan"
 alias sart="./vendor/bin/sail artisan"
 alias phpstan="./vendor/bin/phpstan analyse"
+alias php="herd php"
 
 # Statamic
 alias pls="herd php please"
