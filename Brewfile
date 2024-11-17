@@ -28,7 +28,6 @@ brew 'gifsicle'
 
 # Development
 brew 'imagemagick'
-brew 'node'
 brew 'yarn'
 
 # Zsh Plugins
@@ -41,7 +40,6 @@ brew 'spaceship'
 # Apps
 cask '1password'
 cask '1password-cli'
-cask 'aerial'
 cask 'arc'
 cask 'cyberduck'
 cask 'dbngin'
@@ -52,6 +50,7 @@ cask 'flux'
 cask 'github'
 cask 'herd'
 cask 'hyperkey'
+cask 'imageoptim'
 cask 'insomnia'
 cask 'iterm2'
 cask 'monitorcontrol'
