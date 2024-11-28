@@ -18,6 +18,7 @@ brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'stripe'
+brew 'httpie'
 
 # Spatie Medialibrary
 brew 'jpegoptim'
@@ -51,7 +52,7 @@ cask 'github'
 cask 'herd'
 cask 'hyperkey'
 cask 'imageoptim'
-cask 'insomnia'
+cask 'httpie'
 cask 'iterm2'
 cask 'monitorcontrol'
 cask 'nordvpn'
