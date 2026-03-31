@@ -1,0 +1,43 @@
+theme = dark:Catppuccin Mocha,light:Catppuccin Latte
+# font-family = "JetBrains Mono"
+font-size = 13.5
+font-thicken = true
+font-thicken-strength = 1
+adjust-cell-height = 1
+font-family = JetBrains Mono Regular Regular
+font-family-bold = JetBrains Mono Regular Bold
+font-family-italic = JetBrains Mono Italic Italic
+font-family-bold-italic = JetBrains Mono Italic Bold Italic
+
+window-theme = system
+macos-titlebar-style = tabs
+unfocused-split-opacity = 0.6
+font-family = Square Sans Mono
+
+copy-on-select = clipboard
+focus-follows-mouse = true
+macos-non-native-fullscreen = true
+mouse-hide-while-typing = true
+
+# scrollback-limit in bytes, roughly 125,000 lines
+scrollback-limit = 100000000
+
+shell-integration = zsh
+shell-integration-features = no-cursor
+
+### Misc settings
+desktop-notifications = false
+quit-after-last-window-closed = true
+window-new-tab-position = end
+window-save-state = never
+window-decoration = true
+background-blur = true
+background-opacity = 0.9
+
+# window-colorspace = srgb
+window-colorspace = display-p3
+
+window-inherit-working-directory = false
+tab-inherit-working-directory = false
+split-inherit-working-directory = false
+working-directory = home

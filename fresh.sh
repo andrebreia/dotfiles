@@ -36,5 +36,9 @@ mkdir $HOME/Herd
 # Symlink the Mackup config file to the home directory
 ln -s ./.mackup.cfg $HOME/.mackup.cfg
 
+# Symlink the Ghostty config file
+mkdir -p $HOME/.config/ghostty
+ln -sw $HOME/.dotfiles/ghostty/config $HOME/.config/ghostty/config
+
 # Set macOS preferences - we will run this last because this will reload the shell
 source ./.macos
