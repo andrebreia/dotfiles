@@ -85,6 +85,7 @@ cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 cask 'font-jetbrains-mono'
+cask 'font-geist-mono'
 
 # Mac App Store
 mas 'Keynote', id: 409183694
